@@ -17,7 +17,7 @@ import net.fabricmc.loader.api.FabricLoader;
 import net.minecraft.item.Items;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
+# What im i doing
 public class MeteorRejectsAddon extends MeteorAddon {
     public static final Logger LOG = LoggerFactory.getLogger("Rejects");
     public static final Category CATEGORY = new Category("Rejects", Items.BARRIER.getDefaultStack());
